@@ -26,3 +26,9 @@ Training Set Results for Ordinary Linear Regression\
 Test Set Results for Ordinary Linear Regression\
 <img src="https://user-images.githubusercontent.com/31304876/121604348-351f0180-c9ff-11eb-8976-7e8199b83001.png" width="400" height="200">
 
+**Reflection**\
+I really enjoyed this project. I was able to expand my understanding of the data analytics pipeline, including data visualization, exploratory data analysis,
+database management, as well as machine learning! Ultimately, my dataset is extremely overfit and helped me realize the intense challenges when working with
+text data. Furthermore, I learned that machine learning can assist investors to further understand how stock prices move; however, stocks, like many other
+aspects of life, are simply unpredictable. I hope to further expand on this project over the next few months: applying different algorithms, feature selections,
+simply acquiring more data.
