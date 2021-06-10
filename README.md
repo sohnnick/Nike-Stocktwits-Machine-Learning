@@ -15,16 +15,14 @@ but overfit when it came to test dataset.
 
 **Results**\
 Naive-Bayes Accuracy for t-day Price Changes
-<img src="https://user-images.githubusercontent.com/31304876/121604047-b1651500-c9fe-11eb-89df-58786a24fe1b.png" width="100" height="100">
-\
+<img align="left" src="https://user-images.githubusercontent.com/31304876/121604047-b1651500-c9fe-11eb-89df-58786a24fe1b.png" width="200" height="200">
+
 Logistic Regression Accuracy for t-day Price Changes
-<img src="https://user-images.githubusercontent.com/31304876/121604399-4d8f1c00-c9ff-11eb-90d5-a19c40ec5c4f.png" width="100" height="100">
-\
+<img align="left" src="https://user-images.githubusercontent.com/31304876/121604399-4d8f1c00-c9ff-11eb-90d5-a19c40ec5c4f.png" width="200" height="200">
 
 Training Set Results for Ordinary Linear Regression
-<img src="https://user-images.githubusercontent.com/31304876/121604320-27697c00-c9ff-11eb-9b51-0499701c2388.png" width="200" height="100">
-\
+<img align="left" src="https://user-images.githubusercontent.com/31304876/121604320-27697c00-c9ff-11eb-9b51-0499701c2388.png" width="400" height="200">
 
 Test Set Results for Ordinary Linear Regression
-<img src="https://user-images.githubusercontent.com/31304876/121604348-351f0180-c9ff-11eb-8976-7e8199b83001.png" width="200" height="100">
+<img align="left" src="https://user-images.githubusercontent.com/31304876/121604348-351f0180-c9ff-11eb-8976-7e8199b83001.png" width="400" height="200">
 
