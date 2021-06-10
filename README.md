@@ -2,7 +2,7 @@
 **Introduction**\
 I aim to identify any relationships between StockTwits posts on Nike and how that reflects on Nike's stock prices.
 With the prominence of r/WallStreetBets and increase in retail investors, public opinion and commentary has become more influencial than ever.
-In an attempt to predict stock price movement using text data, I utilize the TF-IDF metric in addition to moving averages and volume polarity.
+In an attempt to predict stock price movement using text data, I utilized the TF-IDF metric in addition to moving averages and volume polarity.
 
 **Methodology**\
 I first conducted exploratory analysis using Tableau to analyze stock price trends for Nike.
